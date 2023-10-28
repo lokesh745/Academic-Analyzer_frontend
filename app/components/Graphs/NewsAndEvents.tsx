@@ -11,6 +11,12 @@ type obj = {
 
 const data: Array<obj> = [
   {
+    Date: "20",
+    Month: "Sept",
+    Event: "Ganpati Chaturthi",
+    Desc: "Festival commemorating the birth of Lord Ganesh",
+  },
+  {
     Date: "25",
     Month: "Dec",
     Event: "Christmas Festival",
