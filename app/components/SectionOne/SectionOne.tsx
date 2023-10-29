@@ -23,7 +23,7 @@ export default function SectionOne({}: Props) {
           </div>
           <div className="flex flex-col">
             <p>Total Users</p>
-            <h1 className="text-xl font-medium ">200/200</h1>
+            <h1 className="text-xl font-medium ">200</h1>
           </div>
         </div>
         <div className=" min-w-[200px]  min-h-[200px] lg:w-[300px] text-black rounded-3xl ml-5 bg-white border-1  flex flex-col  border-gray-100 shadow-md pl-5 pt-7 ">
@@ -32,7 +32,7 @@ export default function SectionOne({}: Props) {
           </div>
           <div className="flex flex-col">
             <p>Total Professors</p>
-            <h1 className="text-xl font-medium ">12/200</h1>
+            <h1 className="text-xl font-medium ">32/200</h1>
           </div>
         </div>
         <div className=" min-w-[200px]  min-h-[200px] lg:w-[300px] text-black rounded-3xl ml-5 bg-white border-1  flex flex-col  border-gray-100 shadow-md pl-5 pt-7 ">
@@ -41,7 +41,7 @@ export default function SectionOne({}: Props) {
           </div>
           <div className="flex flex-col">
             <p>Total Students</p>
-            <h1 className="text-xl font-medium ">15/200</h1>
+            <h1 className="text-xl font-medium ">168/200</h1>
           </div>
         </div>
         <div className=" min-w-[200px]  min-h-[200px] lg:w-[300px] text-black rounded-3xl ml-5 bg-white border-1  flex flex-col  border-gray-100 shadow-md pl-5 pt-7 ">
@@ -50,7 +50,7 @@ export default function SectionOne({}: Props) {
           </div>
           <div className="flex flex-col">
             <p>Total Courses</p>
-            <h1 className="text-xl font-medium ">80%</h1>
+            <h1 className="text-xl font-medium ">56</h1>
           </div>
         </div>
         <div className=" min-w-[200px]  min-h-[200px] lg:w-[300px] text-black rounded-3xl ml-5 bg-white border-1  flex flex-col  border-gray-100 shadow-md pl-5 pt-7 ">
@@ -59,7 +59,7 @@ export default function SectionOne({}: Props) {
           </div>
           <div className="flex flex-col">
             <p>Total Departments</p>
-            <h1 className="text-xl font-medium ">200/200</h1>
+            <h1 className="text-xl font-medium ">5</h1>
           </div>
         </div>
       </div>

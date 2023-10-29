@@ -21,25 +21,25 @@ const data = [
   {
     name: "INFT",
     uv: 3000,
-    Professors: 13,
+    Professors: 19,
     amt: 2210,
   },
   {
     name: "EXTC",
     uv: 2000,
-    Professors: 98,
+    Professors: 20,
     amt: 2290,
   },
   {
     name: "EXCS",
     uv: 2780,
-    Professors: 39,
+    Professors: 18,
     amt: 2000,
   },
   {
     name: "BioMed",
     uv: 1890,
-    Professors: 48,
+    Professors: 12,
     amt: 2181,
   },
 ];
