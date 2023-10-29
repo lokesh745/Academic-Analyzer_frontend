@@ -13,12 +13,12 @@ export default function Home() {
         {/* <div >
         <img className='w-[100vw] h-[100vh]' src="https://res.cloudinary.com/dpa6ihifr/image/upload/v1695591795/student_analyzer/clg_gs2wvn.jpg" alt="background" />
       </div> */}
-        <div className="flex items-center justify-center w-full h-[100vh] bg-white">
-          <div className="w-[400px] border-[1px] p-2 ">
+        <div className="flex items-center justify-center w-full h-[100vh] bg-white bg-local bg-no-repeat bg-cover bg-center bg-[url('https://res.cloudinary.com/dpa6ihifr/image/upload/v1695591795/student_analyzer/clg_gs2wvn.jpg')]">
+          <div className="w-[480px] h-[440px] border-[1px] p-2 bg-white rounded-lg">
             <div className='flex justify-center' >
               <img src="https://res.cloudinary.com/dpa6ihifr/image/upload/v1695591492/student_analyzer/t__o8k9xq.png" alt='vit_logo' />
             </div>
-            <h2 className="text-center text-2xl font-bold leading-tight text-black">
+            <h2 className="text-center text-2xl font-bold leading-tight text-black mt-3">
               Sign in to your account
             </h2>
 
